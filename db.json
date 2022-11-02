@@ -1,0 +1,28 @@
+{
+    "Mobil": [
+        {
+            "id": 1,
+            "plate": "B 1234",
+            "type": "SUV",
+            "brand": "Toyota",
+            "model": "Fortuner",
+            "year": 2018,
+            "color": "Silver",
+            "price": 100000000,
+            "status": "Available",
+            "image": "https://www.toyota.co.id/uploads/2018/06/fortuner-2018-1.jpg"
+        },
+        {
+            "id": 2,
+            "plate": "B 1235",
+            "type": "SUV",
+            "brand": "Toyota",
+            "model": "Fortuner",
+            "year": 2018,
+            "color": "Silver",
+            "price": 100000000,
+            "status": "Available",
+            "image": "https://www.toyota.co.id/uploads/2018/06/fortuner-2018-1.jpg"
+        }
+    ]
+}
